@@ -1,0 +1,137 @@
+fieldset[class=wide]{
+    width: 22%;
+    height: auto;
+}
+
+fieldset{
+    width: 15%;
+    height: auto;
+}
+
+label{
+    color: darkslategrey;
+}
+
+legend{
+	font: 12px BlinkMacSystemFont;
+}
+
+p{
+	font: 12px BlinkMacSystemFont;
+	margin: 0;
+}
+
+.blocked{
+	font: 12px BlinkMacSystemFont;
+	color:red;
+}
+
+.errorMessage{
+	font: 12px BlinkMacSystemFont;
+	color:red;
+}
+
+li{
+	font: 12px BlinkMacSystemFont;
+	margin: 0;
+}
+
+input[type=text], input[type=password]{
+    display: block;
+    border: none;
+    height: auto;
+    border-radius: 5px;
+    outline: 0;
+    padding: 10px;
+    float: left;
+    width: auto;
+    background: #e8eeef;
+    color: darkslategrey;
+    font: 12px BlinkMacSystemFont;
+    margin-bottom: 5;
+    margin-top: 5;
+}
+
+select{
+    display: block;
+    border: none;
+    height: auto;
+    border-radius: 5px;
+    outline: 0;
+    padding: 10px;
+    float: left;
+    width: auto;
+    background: #e8eeef;
+    color: darkslategrey;
+    font: 12px BlinkMacSystemFont;
+    margin-bottom: 5;
+    margin-top: 5;
+}
+
+input[type=submit]{
+    display: block;
+    border: none;
+    height: auto;
+    border-radius: 5px;
+    outline: 0;
+    padding: 10px;
+    float: left;
+    width: auto;
+    background: #a5a5a5;
+    color: black;
+    font: 12px BlinkMacSystemFont;
+    margin-top: 5;
+}
+
+input[type=checkbox], input[type=radio] {
+    border: none;
+    height: auto;
+    border-radius: 5px;
+    outline: 0;
+    padding: 10px;
+    width: auto;
+    background: #e8eeef;
+    color: darkslategrey;
+    font: 12px BlinkMacSystemFont;
+    margin-top: 5;
+}
+
+a:link {
+    text-decoration: none;
+    font: 12px BlinkMacSystemFont;
+    color: darkslategrey;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+ul {
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    -webkit-padding-start: 00px;
+}
+
+div {
+	font: 12px BlinkMacSystemFont;
+}
+
+
+.link {
+	border: none;
+	background: none;
+	font: 12px BlinkMacSystemFont;
+}
+.link:hover {
+	text-decoration:underline;
+	cursor: pointer;
+} 

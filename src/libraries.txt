@@ -1,0 +1,5 @@
+javax.servlet.jsp.jstl-1.2.1.jar
+javax.servlet.jsp.jstl-api-1.2.1.jar
+junit-4.10.jar
+log4j-1.2.17.jar
+mysql-connector-java-5.1.8-bin.jar
